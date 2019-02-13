@@ -1,5 +1,9 @@
+using the words of MSgt Pearson: "Get fucking serious"
+
 https://200ok.ch/posts/2018-12-09_unhexlify.html - Hexlify/unhexlify (decyrption)
 
 https://docs.python.org/3/library/http.html - Python docs for the HTTP module
 
 https://www.codeproject.com/Articles/1116188/40-Basic-Practices-in-Assembly-Language-Programmin#less-instructions - helpful basics on assembly
+
+https://cs.nyu.edu/courses/spring07/G22.3130-001/code_gen.html - GCC to convert C-code to assembly
