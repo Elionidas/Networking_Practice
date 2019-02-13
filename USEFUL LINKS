@@ -9,3 +9,6 @@ https://www.codeproject.com/Articles/1116188/40-Basic-Practices-in-Assembly-Lang
 https://cs.nyu.edu/courses/spring07/G22.3130-001/code_gen.html - GCC to convert C-code to assembly
 
 https://www.tutorialspoint.com/assembly_programming/assembly_registers.htm - tutorial for assembly
+
+https://cs.brown.edu/courses/cs033/docs/guides/x64_cheatsheet.pdf - cheat sheet for x64 asm
+
