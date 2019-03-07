@@ -17,8 +17,8 @@ cmd_list = {
 padding = 0x0000 
 
 c = socket.socket()
-serversocket.bind(())
 c.connect(('10.128.102.165',serverPort))
+print 'Connection established'
 message = struct.pack('ll', 0x802, padding)
 c.send((message))
 data = s.recv(1024)
